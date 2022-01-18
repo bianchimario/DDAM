@@ -1,5 +1,5 @@
 # DDAM
-Distributed Data Analysis and Mining
+Distributed Data Analysis and Mining - Spark (Hadoop)
 
 Analysis of the dataset *Australia, Rain Tomorrow.*
 
